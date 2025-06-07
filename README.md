@@ -15,13 +15,8 @@ We started by testing each motor individually.
 > *Used for launching the ball*
 
 - Tested the BLDC motor to determine its maximum and minimum speeds.  
-  ➤ **[1DCworking.ino]**
-
 - After successful individual testing, integrated the other two BLDC motors and tested all together.  
-  ➤ **[2DCworking.ino]**
-
 - Different speeds were configured, allowing continuous operation at constant speed.  
-  ➤ **[bldc1fixed.ino]**
 
 ✅ **Result:** All BLDC motors are functioning perfectly.
 
@@ -31,10 +26,7 @@ We started by testing each motor individually.
 > *Used to change the angle of launching*
 
 - Integrated with BLDC and tested using fixed speed & angle values.  
-  ➤ **[DCServoFixedworking.ino]**
-
 - Later tested with manual instructions via ROS.  
-  ➤ **[bldc_servomanual.ino]**
 
 ---
 
@@ -42,8 +34,6 @@ We started by testing each motor individually.
 > *Used to push the ball from the reservoir to the launcher*
 
 - Initial testing was done standalone.  
-  ➤ **[StepperAlone.ino]**
-
 - After success, integrated with BLDC and Servo motors.
 
 ---
@@ -51,16 +41,9 @@ We started by testing each motor individually.
 ## **Integrating All Motors**
 
 - Tested motor integration with fixed values.  
-  ➤ **[Fixed3motor.ino]**
-
 - Then tested with manual serial monitor commands.  
-  ➤ **[Manual3motor.ino]**
-
 - Also enabled control via ROS.  
-  ➤ **[manual5motor.ino]**
-
 - Developed Python script for user-controlled input to drive motors.  
-  ➤ **[5motor_pythonscriptROS.ino]**, **[motor_controller.py]**
 
 ---
 
@@ -70,8 +53,7 @@ Spin control is key for realistic training. We:
 
 - Created 10 different speed sets.
 - Used ROS to select a random set based on user command.  
-  ➤ **[spincoderos.ino]**
-
+  
 ---
 
 ## **Automatic Instructions**
