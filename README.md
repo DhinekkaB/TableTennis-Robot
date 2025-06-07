@@ -52,6 +52,9 @@ We started by testing each motor individually.
 - Then tested with manual serial monitor commands.  
 - Also enabled control via ROS.  
 - Developed Python script for user-controlled input to drive motors.
+<p align=center>
+<img src="3.PNG" width="500" height="300">
+</p>
 
 ---
 
