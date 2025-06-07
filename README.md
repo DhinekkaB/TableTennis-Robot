@@ -70,7 +70,8 @@ Each spin type uses randomized speed sets, with top-spin increasing by 200 withi
 - Python script handles these operations.
 - Stepper motor was later replaced by DC motor for better performance.
 
-➤ **[automation_via_python.ino](https://github.com/DhinekkaB/TableTennis-Robot/tree/76092e34cdd298d1e07f23b0014b922607234f8f/automation_via_python/automation_via_python)**, **[automation.py]**
+➤ **[automation_via_python.ino](https://github.com/DhinekkaB/TableTennis-Robot/tree/76092e34cdd298d1e07f23b0014b922607234f8f/automation_via_python/automation_via_python)**, 
+➤ **[automation.py](https://github.com/DhinekkaB/TableTennis-Robot/blob/7192f7f8b41bf96a1c04c561cedf43644edacddf/automation_via_python/automation.py)**
 
 ---
 
