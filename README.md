@@ -16,7 +16,10 @@ We started by testing each motor individually.
 
 - Tested the BLDC motor to determine its maximum and minimum speeds.  
 - After successful individual testing, integrated the other two BLDC motors and tested all together.  
-- Different speeds were configured, allowing continuous operation at constant speed.  
+- Different speeds were configured, allowing continuous operation at constant speed.
+<p align=center>
+<img src="BLDC.webp" width="500" height="300">
+</p>
 
 ✅ **Result:** All BLDC motors are functioning perfectly.
 
