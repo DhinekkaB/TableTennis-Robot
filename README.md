@@ -41,7 +41,9 @@ We started by testing each motor individually.
 
 - Initial testing was done standalone.  
 - After success, integrated with BLDC and Servo motors.
-
+<p align=center>
+<img src="steppermotor.webp" width="500" height="300">
+</p>
 ---
 
 ## **Integrating All Motors**
@@ -49,7 +51,7 @@ We started by testing each motor individually.
 - Tested motor integration with fixed values.  
 - Then tested with manual serial monitor commands.  
 - Also enabled control via ROS.  
-- Developed Python script for user-controlled input to drive motors.  
+- Developed Python script for user-controlled input to drive motors.
 
 ---
 
