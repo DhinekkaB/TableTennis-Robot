@@ -89,11 +89,11 @@ Each spin type uses randomized speed sets, with top-spin increasing by 200 withi
 ## **TableTennisRobot preview**
 The model image is below
 <p align=center>
-<img src="1.png" width="500" height="300">
+<img src="2.png" width="500" height="300">
 </p>
 
 <p align=center>
-<img src="2.png" width="500" height="300">
+<img src="1.png" width="500" height="300">
 </p>
 
 ---
