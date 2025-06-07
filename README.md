@@ -71,7 +71,7 @@ Each spin type uses randomized speed sets, with top-spin increasing by 200 withi
 - Stepper motor was later replaced by DC motor for better performance.
 
 ➤ **[automation_via_python.ino]**, **[automation.py]**
-
+[LINUX4SAM WEBSITE](https://www.linux4sam.org/bin/view/Linux4SAM/Sama5d27WLSom1EKMainPage)
 ---
 
 📁 *This README documents all the stages of motor testing, integration, and automation for TTBot.*
