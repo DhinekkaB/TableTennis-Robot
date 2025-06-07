@@ -29,7 +29,10 @@ We started by testing each motor individually.
 > *Used to change the angle of launching*
 
 - Integrated with BLDC and tested using fixed speed & angle values.  
-- Later tested with manual instructions via ROS.  
+- Later tested with manual instructions via ROS.
+<p align=center>
+<img src="servo.webp" width="500" height="300">
+</p>
 
 ---
 
