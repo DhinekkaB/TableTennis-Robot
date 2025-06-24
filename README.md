@@ -109,6 +109,6 @@ Each spin type uses randomized speed sets, with top-spin increasing by 200 withi
 <img src="5.jpg" width="500" height="300">
 </p>
 
-### You can view the Demo video by clicking the link or open the video directory
+### You can view the [Demo video](https://github.com/DhinekkaB/TableTennis-Robot/tree/main/video) by clicking the link or open the video directory
 ---
 📁 *This README documents all the stages of motor testing, integration, and automation for TTBot.*
