@@ -92,7 +92,7 @@ Each spin type uses randomized speed sets, with top-spin increasing by 200 withi
 ### circuit connection diagram
 
 <p align=center>
-<img src="3.png" width="500" height="300">
+<img src="4.png" width="500" height="300">
 </p>
 
 ### The model image is below
