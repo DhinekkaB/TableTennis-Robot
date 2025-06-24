@@ -44,6 +44,7 @@ We started by testing each motor individually.
 <p align=center>
 <img src="steppermotor.webp" width="500" height="300">
 </p>
+
 ---
 
 ## **Integrating All Motors**
@@ -87,7 +88,15 @@ Each spin type uses randomized speed sets, with top-spin increasing by 200 withi
 ---
 
 ## **TableTennisRobot preview**
-The model image is below
+
+### circuit connection diagram
+
+<p align=center>
+<img src="3.png" width="500" height="300">
+</p>
+
+### The model image is below
+
 <p align=center>
 <img src="2.png" width="500" height="300">
 </p>
@@ -96,5 +105,10 @@ The model image is below
 <img src="1.png" width="500" height="300">
 </p>
 
+<p align=center>
+<img src="5.jpg" width="500" height="300">
+</p>
+
+### You can view the Demo video by clicking the link or open the video directory
 ---
 📁 *This README documents all the stages of motor testing, integration, and automation for TTBot.*
